@@ -1,0 +1,11 @@
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Chương 4\BaiTapTrenLop\47.01.104.132_NguyenPhanTraMy\Bai1\bin\Debug\Bai1.exe.config
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Chương 4\BaiTapTrenLop\47.01.104.132_NguyenPhanTraMy\Bai1\bin\Debug\Bai1.exe
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Chương 4\BaiTapTrenLop\47.01.104.132_NguyenPhanTraMy\Bai1\bin\Debug\Bai1.pdb
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Chương 4\BaiTapTrenLop\47.01.104.132_NguyenPhanTraMy\Bai1\obj\Debug\Bai1.csproj.AssemblyReference.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Chương 4\BaiTapTrenLop\47.01.104.132_NguyenPhanTraMy\Bai1\obj\Debug\Bai1.csproj.SuggestedBindingRedirects.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Chương 4\BaiTapTrenLop\47.01.104.132_NguyenPhanTraMy\Bai1\obj\Debug\_47._01._104._132_NguyenPhanTraMy.frmBai1.resources
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Chương 4\BaiTapTrenLop\47.01.104.132_NguyenPhanTraMy\Bai1\obj\Debug\Bai1.Properties.Resources.resources
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Chương 4\BaiTapTrenLop\47.01.104.132_NguyenPhanTraMy\Bai1\obj\Debug\Bai1.csproj.GenerateResource.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Chương 4\BaiTapTrenLop\47.01.104.132_NguyenPhanTraMy\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Chương 4\BaiTapTrenLop\47.01.104.132_NguyenPhanTraMy\Bai1\obj\Debug\Bai1.exe
+D:\Đại học\Năm 2\HK1\Lập trình Win\Lập Trình trên Windown\BTLamTrenLop\Chương 4\BaiTapTrenLop\47.01.104.132_NguyenPhanTraMy\Bai1\obj\Debug\Bai1.pdb

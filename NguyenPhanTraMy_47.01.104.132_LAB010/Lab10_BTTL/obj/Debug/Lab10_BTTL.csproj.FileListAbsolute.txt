@@ -1,0 +1,33 @@
+D:\BTLTW\Lab10_BTTL\bin\Debug\Lab10_BTTL.exe.config
+D:\BTLTW\Lab10_BTTL\bin\Debug\Lab10_BTTL.exe
+D:\BTLTW\Lab10_BTTL\bin\Debug\Lab10_BTTL.pdb
+D:\BTLTW\Lab10_BTTL\obj\Debug\Lab10_BTTL.csproj.AssemblyReference.cache
+D:\BTLTW\Lab10_BTTL\obj\Debug\Lab10_BTTL.csproj.SuggestedBindingRedirects.cache
+D:\BTLTW\Lab10_BTTL\obj\Debug\Lab10_BTTL.frmLab10_bttl.resources
+D:\BTLTW\Lab10_BTTL\obj\Debug\Lab10_BTTL.Properties.Resources.resources
+D:\BTLTW\Lab10_BTTL\obj\Debug\Lab10_BTTL.csproj.GenerateResource.cache
+D:\BTLTW\Lab10_BTTL\obj\Debug\Lab10_BTTL.csproj.CoreCompileInputs.cache
+D:\BTLTW\Lab10_BTTL\obj\Debug\Lab10_BTTL.exe
+D:\BTLTW\Lab10_BTTL\obj\Debug\Lab10_BTTL.pdb
+D:\Đại học\Năm 2\HK1\Lập trình Win\NopBai\Lab10\Lab10_BTTL\bin\Debug\Lab10_BTTL.exe.config
+D:\Đại học\Năm 2\HK1\Lập trình Win\NopBai\Lab10\Lab10_BTTL\bin\Debug\Lab10_BTTL.exe
+D:\Đại học\Năm 2\HK1\Lập trình Win\NopBai\Lab10\Lab10_BTTL\bin\Debug\Lab10_BTTL.pdb
+D:\Đại học\Năm 2\HK1\Lập trình Win\NopBai\Lab10\Lab10_BTTL\obj\Debug\Lab10_BTTL.csproj.AssemblyReference.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\NopBai\Lab10\Lab10_BTTL\obj\Debug\Lab10_BTTL.csproj.SuggestedBindingRedirects.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\NopBai\Lab10\Lab10_BTTL\obj\Debug\Lab10_BTTL.frmLab10_bttl.resources
+D:\Đại học\Năm 2\HK1\Lập trình Win\NopBai\Lab10\Lab10_BTTL\obj\Debug\Lab10_BTTL.Properties.Resources.resources
+D:\Đại học\Năm 2\HK1\Lập trình Win\NopBai\Lab10\Lab10_BTTL\obj\Debug\Lab10_BTTL.csproj.GenerateResource.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\NopBai\Lab10\Lab10_BTTL\obj\Debug\Lab10_BTTL.csproj.CoreCompileInputs.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\NopBai\Lab10\Lab10_BTTL\obj\Debug\Lab10_BTTL.exe
+D:\Đại học\Năm 2\HK1\Lập trình Win\NopBai\Lab10\Lab10_BTTL\obj\Debug\Lab10_BTTL.pdb
+D:\Đại học\Năm 2\HK1\Lập trình Win\NopBai\NguyenPhanTraMy_47.01.104.132_LAB010\Lab10_BTTL\bin\Debug\Lab10_BTTL.exe.config
+D:\Đại học\Năm 2\HK1\Lập trình Win\NopBai\NguyenPhanTraMy_47.01.104.132_LAB010\Lab10_BTTL\bin\Debug\Lab10_BTTL.exe
+D:\Đại học\Năm 2\HK1\Lập trình Win\NopBai\NguyenPhanTraMy_47.01.104.132_LAB010\Lab10_BTTL\bin\Debug\Lab10_BTTL.pdb
+D:\Đại học\Năm 2\HK1\Lập trình Win\NopBai\NguyenPhanTraMy_47.01.104.132_LAB010\Lab10_BTTL\obj\Debug\Lab10_BTTL.csproj.AssemblyReference.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\NopBai\NguyenPhanTraMy_47.01.104.132_LAB010\Lab10_BTTL\obj\Debug\Lab10_BTTL.csproj.SuggestedBindingRedirects.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\NopBai\NguyenPhanTraMy_47.01.104.132_LAB010\Lab10_BTTL\obj\Debug\Lab10_BTTL.frmLab10_bttl.resources
+D:\Đại học\Năm 2\HK1\Lập trình Win\NopBai\NguyenPhanTraMy_47.01.104.132_LAB010\Lab10_BTTL\obj\Debug\Lab10_BTTL.Properties.Resources.resources
+D:\Đại học\Năm 2\HK1\Lập trình Win\NopBai\NguyenPhanTraMy_47.01.104.132_LAB010\Lab10_BTTL\obj\Debug\Lab10_BTTL.csproj.GenerateResource.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\NopBai\NguyenPhanTraMy_47.01.104.132_LAB010\Lab10_BTTL\obj\Debug\Lab10_BTTL.csproj.CoreCompileInputs.cache
+D:\Đại học\Năm 2\HK1\Lập trình Win\NopBai\NguyenPhanTraMy_47.01.104.132_LAB010\Lab10_BTTL\obj\Debug\Lab10_BTTL.exe
+D:\Đại học\Năm 2\HK1\Lập trình Win\NopBai\NguyenPhanTraMy_47.01.104.132_LAB010\Lab10_BTTL\obj\Debug\Lab10_BTTL.pdb

@@ -1,0 +1,11 @@
+D:\C#\Project\MangSoNguyen\MangSoNguyen\bin\Debug\MangSoNguyen.exe.config
+D:\C#\Project\MangSoNguyen\MangSoNguyen\bin\Debug\MangSoNguyen.exe
+D:\C#\Project\MangSoNguyen\MangSoNguyen\bin\Debug\MangSoNguyen.pdb
+D:\C#\Project\MangSoNguyen\MangSoNguyen\obj\Debug\MangSoNguyen.csproj.AssemblyReference.cache
+D:\C#\Project\MangSoNguyen\MangSoNguyen\obj\Debug\MangSoNguyen.csproj.SuggestedBindingRedirects.cache
+D:\C#\Project\MangSoNguyen\MangSoNguyen\obj\Debug\MangSoNguyen.Form1.resources
+D:\C#\Project\MangSoNguyen\MangSoNguyen\obj\Debug\MangSoNguyen.Properties.Resources.resources
+D:\C#\Project\MangSoNguyen\MangSoNguyen\obj\Debug\MangSoNguyen.csproj.GenerateResource.cache
+D:\C#\Project\MangSoNguyen\MangSoNguyen\obj\Debug\MangSoNguyen.csproj.CoreCompileInputs.cache
+D:\C#\Project\MangSoNguyen\MangSoNguyen\obj\Debug\MangSoNguyen.exe
+D:\C#\Project\MangSoNguyen\MangSoNguyen\obj\Debug\MangSoNguyen.pdb
